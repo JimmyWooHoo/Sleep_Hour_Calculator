@@ -1,1 +1,2 @@
-# a
+Sleep Hour Calculator
+This program asks the user how many hours of sleep each night in a whole week, calculate the average hours of sleep each night, and return if the user have a good sleeping pattern this week. There is a list storing all 7 days in a week, and there is a loop that asks for hours of sleep every time using this list to access the day of week. There is another list to store the hours of sleep each night, and it is also used to calculate the average hours of sleep. There is a function that ask user input for sleep hours every night and another function to calculate the average hours of sleep. Then there will be a main procedure that calls to these two functions and tells the user if their sleeping pattern this week is good or they need more sleep. 
